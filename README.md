@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python: AI/Machine Learning**
 
-- 💬 Ask me about **Java, Node,js**
+- 💬 Ask me about **Java, JavaScript:Node,js**
 
 - 📫 How to reach me **dmitrii.sizikov577@gmail.com**
 
