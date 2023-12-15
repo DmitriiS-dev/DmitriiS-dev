@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitrii</h1>
-<h3 align="center">A passionate developer from Uk</h3>
+<h3 align="center">A passionate developer from UK</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/286354/screenshots/1207913/process-animated-develop-600x800.gif">
 
 
