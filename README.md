@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriiuser&label=Profile%20views&color=0e75b6&style=flat" alt="dmitriiuser" /> </p>
 
-- 🔭 I’m currently working on **My Own Website**
+- 🔭 I’m currently working on **My 3rd Year Project**
 
-- 🌱 I’m currently learning **Python: AI/Machine Learning**
+- 🌱 I’m currently learning **Python: Machine Learning**
 
 - 💬 Ask me about **Java, JavaScript:Node,js**
 
 - 📫 How to reach me **dmitrii.sizikov577@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dmitrii-sizikov-67ab71213/](https://www.linkedin.com/in/dmitrii-sizikov-67ab71213/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
