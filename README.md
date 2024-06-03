@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriiuser&label=Profile%20views&color=0e75b6&style=flat" alt="dmitriiuser" /> </p>
 
-- 🔭 I’m currently working on **A Full_Stack web app with Next.js**
+- 🔭 I’m currently working on **A Full-Stack web app with Next.js**
 
-- 🌱 I’m currently learning **Python: Machine Learning**
+- 🌱 I’m currently learning **React Native and Next.js**
 
-- 💬 Ask me about **Java, JavaScript:Node,js**
+- 💬 Ask me about **Python,Java,JavaScript:Node,js**
 
 - 📫 How to reach me **dmitrii.sizikov577@gmail.com**
 
