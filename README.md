@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriiuser&label=Profile%20views&color=0e75b6&style=flat" alt="dmitriiuser" /> </p>
 
-- 🔭 I’m currently working on **My 3rd Year Project**
+- 🔭 I’m currently working on **A Full_Stack web app with Next.js**
 
 - 🌱 I’m currently learning **Python: Machine Learning**
 
