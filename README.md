@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriiuser&label=Profile%20views&color=0e75b6&style=flat" alt="dmitriiuser" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriiuser&label=Profile%20views&color=0e75b6&style=flat" alt="dmitrii-siz" /> </p>
 
 - 🔭 I’m currently working on **A Full-Stack web app with Next.js**
 
