@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriiuser&label=Profile%20views&color=0e75b6&style=flat" alt="dmitrii-siz" /> </p>
 
-- 🔭 I’m currently working on **A Full-Stack web app with Next.js**
+- 🔭 I’m currently working on **A Mobile App**
 
-- 🌱 I’m currently learning **React Native and Next.js**
+- 🌱 I’m currently learning **Flutter and Python**
 
 - 💬 Ask me about **Python,Java,JavaScript:Node,js**
 
