@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter and Python**
 
-- 💬 Ask me about **Python,Java,JavaScript:Node,js**
+- 💬 Ask me about **Python,Java,JavaScript**
 
 - 📫 How to reach me **dmitrii-dev@outlook.com**
 
