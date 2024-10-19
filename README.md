@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python,Java,JavaScript:Node,js**
 
-- 📫 How to reach me **dmitrii.sizikov577@gmail.com**
+- 📫 How to reach me **dmitrii-dev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
