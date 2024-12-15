@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **A Mobile App**
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **Flutter and Java**
 
 - 💬 Ask me about **Python,Java,JavaScript and SQL**
 
