@@ -86,7 +86,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/473805/tensorflow.svg" alt="TensorFlow" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(42%) sepia(75%) saturate(1600%) hue-rotate(329deg) brightness(94%) contrast(98%);">
+    <img src="https://www.svgrepo.com/show/473805/tensorflow.svg" alt="TensorFlow" width="40" height="40">
   </a>
   <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
