@@ -86,8 +86,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/user-attachments/assets/dd535868-7f5a-4d68-a9e7-cfcef062e370)
-" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/473805/tensorflow.svg" alt="TensorFlow" width="40" height="40">
   </a>
   <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
