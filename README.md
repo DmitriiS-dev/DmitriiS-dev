@@ -95,8 +95,8 @@
   <a href="https://pytest.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40"/>
   </a>
-  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mockito/mockito-original-wordmark.svg" alt="mockito" width="40" height="40"/>
+  <a href="https://junit.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjunit.org%2F&psig=AOvVaw3PiHsHrlvQ89NnEGjqAPIx&ust=1735929676055000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjD-pDY14oDFQAAAAAdAAAAABAE" alt="JUnit" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="postgresql" width="40" height="40"/>
