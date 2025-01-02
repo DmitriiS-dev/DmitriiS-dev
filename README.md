@@ -102,7 +102,7 @@
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
-    <img src="https://svgmix.com/item/XJQrNg/vitest" alt="vitest" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vitest" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="nextjs" width="40" height="40"/>
