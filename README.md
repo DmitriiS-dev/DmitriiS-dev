@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dmitrii</h1>
 <h3 align="center">Software Engineer | UK, London</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/286354/screenshots/1207913/process-animated-develop-600x800.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriiuser&label=Profile%20views&color=0e75b6&style=flat" alt="dmitrii-siz" /> </p>
 
 - 🔭 I’m currently working on **A Mobile App**
 
