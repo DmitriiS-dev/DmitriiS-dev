@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **A Mobile App**
+- 🔭 I’m currently working with **JavaScript**, **TypeScript**, **Express**, **Python**, **Docker**, **Flutter**, **AWS**, **Java Spring**, **JUnit**, **GitHub Actions**, and many more!
 
-- 🌱 I’m currently learning **Flutter and Java**
+- 🌱 I’m constantly learning and exploring new technologies to expand my skill set. At the Moment it is **Flutter and Java**
 
 - 📫 How to reach me **dmitrii.sizikov.uk@gmail.com**
 
