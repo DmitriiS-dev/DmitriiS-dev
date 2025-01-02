@@ -42,10 +42,7 @@
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/2054052?s=200&v=4" alt="mockito" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
