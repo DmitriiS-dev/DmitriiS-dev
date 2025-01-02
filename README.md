@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitrii</h1>
-<h3 align="center">A passionate developer from UK</h3>
+<h3 align="center">Software Engineer | UK, London</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/286354/screenshots/1207913/process-animated-develop-600x800.gif">
 
 
@@ -10,9 +10,8 @@
 
 - 🌱 I’m currently learning **Flutter and Java**
 
-- 💬 Ask me about **Python,Java,JavaScript and SQL**
+- 📫 How to reach me **dmitrii.sizikov.uk@gmail.com**
 
-- 📫 How to reach me **dmitrii-dev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
