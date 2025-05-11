@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working with **JavaScript**, **TypeScript**, **Express**, **Python**, **Docker**, **Flutter**, **AWS**, **Java Spring**, **JUnit**, **GitHub Actions**, and many more!
+- 🔭 I’m currently working with **JavaScript**, **TypeScript**, **Express**, **Python**, **Docker**, **Flutter**, **AWS**, **Java Spring**, **JUnit**, **GitLab (CI/CD yml pipelines)**, and many more!
 
-- 🌱 I’m constantly learning and exploring new technologies to expand my skill set. At the Moment it is **Flutter and Java**
+- 🌱 I’m constantly learning and exploring new technologies to expand my skill set. At the Moment it is **TypeScript React) and Java (Spring Boot)**
 
 - 📫 How to reach me **dmitrii.sizikov.uk@gmail.com**
 
